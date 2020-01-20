@@ -1,0 +1,34 @@
+body {
+    background-color: rgba(129, 156, 245, 0.1);
+}
+
+.textarea-container {
+    margin-top: 5%;
+}
+
+.address-textarea {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.format-address-button {
+    width: 80%;
+    margin: 95% auto;
+    background-color: rgba(248, 132, 0, 0.651);
+    border-color: #000;
+    color: #fff;
+}
+
+.textarea-label {
+    margin: 0 auto;
+    padding-left: 10%;
+    text-align: center;
+}
+
+.lowercase-address {
+    text-transform: lowercase;
+}
+
+.capitalised-address {
+    text-transform: capitalize;
+}
